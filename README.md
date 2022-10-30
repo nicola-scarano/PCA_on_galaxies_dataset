@@ -1,4 +1,4 @@
-# PCA_on_galaxies_dataset
+# PCA on galaxies dataset
 
 Abstract—In this homework, we apply to a dataset of galaxy
 characteristics the PCA, giving interpretation to the principal
